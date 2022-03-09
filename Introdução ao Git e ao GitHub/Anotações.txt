@@ -1,0 +1,3 @@
+Realizado desafio do Git/GitHub, criando os repositórios e subindo para o Hub. 
+Com isso será estruturado novas pastas com o decorrer do curso, baseando-se em cada 
+modulo. 
