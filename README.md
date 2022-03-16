@@ -6,3 +6,5 @@ BootCamp de Cloud Data Engineer pela DIO - Cognizant
 [Conceitos MarkDown](https://www.markdownguide.org/getting-started/)
 
 [Download Git](https://git-scm.com/downloads)
+
+[Guia Linux](https://guiafoca.org/)
