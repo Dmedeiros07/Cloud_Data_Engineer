@@ -8,3 +8,5 @@ BootCamp de Cloud Data Engineer pela DIO - Cognizant
 [Download Git](https://git-scm.com/downloads)
 
 [Guia Linux](https://guiafoca.org/)
+
+[JsLinux](https://bellard.org/jslinux/) - Terminal Web para Linux
