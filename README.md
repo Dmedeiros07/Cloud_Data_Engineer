@@ -12,3 +12,5 @@ BootCamp de Cloud Data Engineer pela DIO - Cognizant
 [JsLinux](https://bellard.org/jslinux/) - Terminal Web para Linux
 
 [Fedora](https://getfedora.org/pt_BR/) - Versão WorkStation
+
+[GeeksForGeeks](https://www.geeksforgeeks.org/) - Dicas Python
